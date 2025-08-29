@@ -1,9 +1,0 @@
-C:\Users\joang\Documents\GitHub\prices-hex\src\main\java\com\example\prices\domain\port\out\LoadPricesPort.java
-C:\Users\joang\Documents\GitHub\prices-hex\src\main\java\com\example\prices\PricesApplication.java
-C:\Users\joang\Documents\GitHub\prices-hex\src\main\java\com\example\prices\adapter\out\jpa\PriceEntity.java
-C:\Users\joang\Documents\GitHub\prices-hex\src\main\java\com\example\prices\adapter\in\rest\PriceController.java
-C:\Users\joang\Documents\GitHub\prices-hex\src\main\java\com\example\prices\domain\model\Price.java
-C:\Users\joang\Documents\GitHub\prices-hex\src\main\java\com\example\prices\application\QueryApplicablePriceService.java
-C:\Users\joang\Documents\GitHub\prices-hex\src\main\java\com\example\prices\adapter\out\jpa\PriceJpaAdapter.java
-C:\Users\joang\Documents\GitHub\prices-hex\src\main\java\com\example\prices\domain\port\in\QueryApplicablePriceUseCase.java
-C:\Users\joang\Documents\GitHub\prices-hex\src\main\java\com\example\prices\adapter\out\jpa\PriceJpaRepository.java
