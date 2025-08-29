@@ -1,0 +1,10 @@
+com\example\prices\domain\port\in\QueryApplicablePriceUseCase.class
+com\example\prices\domain\port\out\LoadPricesPort.class
+com\example\prices\adapter\out\jpa\PriceJpaRepository.class
+com\example\prices\domain\model\Price.class
+com\example\prices\adapter\out\jpa\PriceJpaAdapter.class
+com\example\prices\adapter\in\rest\PriceController$PriceResponse.class
+com\example\prices\application\QueryApplicablePriceService.class
+com\example\prices\PricesApplication.class
+com\example\prices\adapter\in\rest\PriceController.class
+com\example\prices\adapter\out\jpa\PriceEntity.class
